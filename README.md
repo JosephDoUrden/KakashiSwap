@@ -1,5 +1,3 @@
-# KakashiSwap
-
 ![This is an image](./kakashiSwapLogo.png)
 
 **KakashiSwap is a project created using PancakeSwap.**
