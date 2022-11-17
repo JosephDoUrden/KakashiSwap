@@ -8,4 +8,4 @@
 https://testnet.bscscan.com/address/0xC160F01f157Bd24B4673CfF1C1B088bC8eF946cA
 
 ## KakashiStake Contract:
-https://testnet.bscscan.com/address/0xbcE1205AB989606256862434c43c281F497091b9
+https://testnet.bscscan.com/address/0xc9bb17844E833374572B51b9f832f48216cD6A23
