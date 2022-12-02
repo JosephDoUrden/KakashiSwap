@@ -18,7 +18,7 @@ contract StakingContract {
 
     constructor() {
         owner = msg.sender;
-        stakingToken = IERC20(0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c); //wBNB
+        stakingToken = IERC20(0xeD24FC36d5Ee211Ea25A80239Fb8C4Cfd80f12Ee); //BUSD
         rewardsToken = IERC20(0xC160F01f157Bd24B4673CfF1C1B088bC8eF946cA); //KakashiToken
     }
 
